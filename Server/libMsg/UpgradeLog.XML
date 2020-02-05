@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="libMsg">
+</Property><Property Name="Solution File" Value="D:\development\MuOnline EMU\trunk\libMsg\libMsg.sln">
+</Property><Property Name="User Options File" Value="D:\development\MuOnline EMU\trunk\libMsg\libMsg.suo">
+</Property><Property Name="Date" Value="יום ראשון 24 אוגוסט 2008">
+</Property><Property Name="Time" Value="03:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="libMsg.sln" Description="File successfully backed up as D:\development\MuOnline EMU\trunk\libMsg\libMsg.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="libMsg.suo" Description="File successfully backed up as D:\development\MuOnline EMU\trunk\libMsg\libMsg.suo.old">
+</Event><Event ErrorLevel="0" Project="libMsg" Source="libMsg.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="libMsg" Source="libMsg.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="libMsg.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="libMsg.sln" Description="Converted">
+</Event></UpgradeLog>

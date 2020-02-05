@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ABA970D1-5BAC-4660-B84B-66AD20434DAE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LiveChatClient</RootNamespace>
+    <AssemblyName>LiveChatClient</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>3C1C8AEE24C64F70A96F9B31644EE59F0036C631</ManifestCertificateThumbprint>
+    <ManifestKeyFile>LiveChatClient_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <PublishUrl>ftp://82.80.245.180/domains/true-serv.com/public_html/LiveChat/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://www.true-serv.com/LiveChat/</InstallUrl>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="interface\FindUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="interface\FindUsers.Designer.cs">
+      <DependentUpon>FindUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="interface\ChangeAway.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="interface\ChangeAway.Designer.cs">
+      <DependentUpon>ChangeAway.cs</DependentUpon>
+    </Compile>
+    <Compile Include="interface\ContactList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="interface\ContactList.Designer.cs">
+      <DependentUpon>ContactList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="design\VistaButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="interface\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="interface\LoginForm.designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="interface\Messages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="interface\Messages.Designer.cs">
+      <DependentUpon>Messages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Packets.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="design\VistaButton.resx">
+      <DependentUpon>VistaButton.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Protocol.cs" />
+    <Compile Include="tools\Additions.cs" />
+    <Compile Include="tools\BufferClass.cs" />
+    <Compile Include="tools\InIClass.cs" />
+    <Compile Include="tools\popup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tools\Tray.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="design\Add.ico" />
+    <EmbeddedResource Include="interface\FindUsers.resx">
+      <DependentUpon>FindUsers.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="interface\ChangeAway.resx">
+      <DependentUpon>ChangeAway.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="interface\ContactList.resx">
+      <DependentUpon>ContactList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="interface\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="interface\Messages.resx">
+      <DependentUpon>Messages.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="design\About.ICO" />
+    <Content Include="design\browser.ico" />
+    <Content Include="design\Close.ICO" />
+    <Content Include="design\Mini.ICO" />
+    <Content Include="design\popup_close.bmp" />
+    <Content Include="design\popup_skin.bmp" />
+    <Content Include="Resources\BG.jpg" />
+    <Content Include="Resources\BG_border_buttom.jpg" />
+    <Content Include="Resources\BG_border_buttom1.jpg" />
+    <Content Include="Resources\BG_border_buttom_corner_left.jpg" />
+    <Content Include="Resources\BG_border_buttom_corner_right.jpg" />
+    <Content Include="Resources\BG_border_left.jpg" />
+    <Content Include="Resources\BG_border_right.jpg" />
+    <Content Include="Resources\BG_border_top.jpg" />
+    <Content Include="Resources\BG_border_top1.jpg" />
+    <Content Include="Resources\BG_border_top_corner_left.jpg" />
+    <Content Include="Resources\BG_border_top_corner_right.jpg" />
+    <Content Include="Resources\BG_image_bglogo.jpg" />
+    <Content Include="Resources\BG_image_logo.jpg" />
+    <Content Include="Resources\BG_image_seperator.jpg" />
+    <Content Include="Resources\BG_image_seperator1.jpg" />
+    <Content Include="Resources\BG_image_seperator2.jpg" />
+    <Content Include="Resources\BG_loginbox.jpg" />
+    <Content Include="Resources\BG_Shade.jpg" />
+    <Content Include="Resources\BT_close.jpg" />
+    <Content Include="Resources\BT_close_click.jpg" />
+    <Content Include="Resources\BT_close_over.jpg" />
+    <Content Include="Resources\BT_maximize.jpg" />
+    <Content Include="Resources\BT_maximize_click.jpg" />
+    <Content Include="Resources\BT_maximize_over.jpg" />
+    <Content Include="Resources\BT_minimize.jpg" />
+    <Content Include="Resources\BT_minmize.jpg" />
+    <Content Include="Resources\BT_minmize_click.jpg" />
+    <Content Include="Resources\BT_minmize_over.jpg" />
+    <Content Include="Resources\BT_settings.jpg" />
+    <Content Include="Resources\Form_bg_text.jpg" />
+    <Content Include="Resources\Title_login.jpg" />
+    <Content Include="Resources\Title_login1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

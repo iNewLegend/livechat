@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="libConn">
+</Property><Property Name="Solution File" Value="D:\development\MuOnline EMU\trunk\libConn\libConn.sln">
+</Property><Property Name="User Options File" Value="D:\development\MuOnline EMU\trunk\libConn\libConn.suo">
+</Property><Property Name="Date" Value="יום שישי 29 אוגוסט 2008">
+</Property><Property Name="Time" Value="20:30">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="libConn.sln" Description="File successfully backed up as D:\development\MuOnline EMU\trunk\libConn\libConn.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="libConn.suo" Description="File successfully backed up as D:\development\MuOnline EMU\trunk\libConn\libConn.suo.old">
+</Event><Event ErrorLevel="0" Project="libConn" Source="libConn.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="libConn" Source="libConn.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="libConn.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="libConn.sln" Description="Converted">
+</Event></UpgradeLog>

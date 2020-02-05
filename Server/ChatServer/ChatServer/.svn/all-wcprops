@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/LiveChat/!svn/ver/17/Source/Server/ChatServer/ChatServer
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/stdafx.h
+END
+exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/exception.cpp
+END
+protocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LiveChat/!svn/ver/17/Source/Server/ChatServer/ChatServer/protocol.cpp
+END
+shared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/shared.cpp
+END
+Object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/LiveChat/!svn/ver/14/Source/Server/ChatServer/ChatServer/Object.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/config.h
+END
+Messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/LiveChat/!svn/ver/17/Source/Server/ChatServer/ChatServer/Messages.h
+END
+ChatServer.vcproj.INSIGHT-M4XHUAV.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/LiveChat/!svn/ver/14/Source/Server/ChatServer/ChatServer/ChatServer.vcproj.INSIGHT-M4XHUAV.Administrator.user
+END
+ChatServer.vcproj.Liad-PC.Liad Avraham.user
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/ChatServer.vcproj.Liad-PC.Liad%20Avraham.user
+END
+ChatServer.vcproj.9398EB762D0A49B.ניב.user
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/ChatServer.vcproj.9398EB762D0A49B.%D7%A0%D7%99%D7%91.user
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/stdafx.cpp
+END
+ContactList.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/LiveChat/!svn/ver/14/Source/Server/ChatServer/ChatServer/ContactList.h
+END
+dsProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LiveChat/!svn/ver/14/Source/Server/ChatServer/ChatServer/dsProtocol.h
+END
+network.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/network.h
+END
+Packets.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LiveChat/!svn/ver/17/Source/Server/ChatServer/ChatServer/Packets.h
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/exception.h
+END
+config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/config.cpp
+END
+protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/LiveChat/!svn/ver/17/Source/Server/ChatServer/ChatServer/protocol.h
+END
+singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/singleton.h
+END
+Messages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LiveChat/!svn/ver/17/Source/Server/ChatServer/ChatServer/Messages.cpp
+END
+ChatServer.vcproj.MAXILINE.Kudo.user
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/ChatServer.vcproj.MAXILINE.Kudo.user
+END
+shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/shared.h
+END
+Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/LiveChat/!svn/ver/17/Source/Server/ChatServer/ChatServer/Object.h
+END
+ChatServer.vcproj.leo123-PC.leo123.user
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/ChatServer.vcproj.leo123-PC.leo123.user
+END
+LibMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/LibMsg.h
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/Main.cpp
+END
+ChatServer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LiveChat/!svn/ver/12/Source/Server/ChatServer/ChatServer/ChatServer.vcproj
+END
+ContactList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/LiveChat/!svn/ver/14/Source/Server/ChatServer/ChatServer/ContactList.cpp
+END
+dsProtocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/LiveChat/!svn/ver/14/Source/Server/ChatServer/ChatServer/dsProtocol.cpp
+END
+network.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/network.cpp
+END
+LibConn.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/LibConn.h
+END
+ChatServer.vcproj.DARKNIGHT.leo.user
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/LiveChat/!svn/ver/8/Source/Server/ChatServer/ChatServer/ChatServer.vcproj.DARKNIGHT.leo.user
+END

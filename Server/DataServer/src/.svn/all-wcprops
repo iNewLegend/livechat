@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/LiveChat/!svn/ver/14/Source/Server/DataServer/src
+END
+network.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/LiveChat/!svn/ver/8/Source/Server/DataServer/src/network.h
+END
+exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/LiveChat/!svn/ver/8/Source/Server/DataServer/src/exception.cpp
+END
+packets.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/LiveChat/!svn/ver/14/Source/Server/DataServer/src/packets.h
+END
+protocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/LiveChat/!svn/ver/14/Source/Server/DataServer/src/protocol.cpp
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/LiveChat/!svn/ver/8/Source/Server/DataServer/src/exception.h
+END
+database.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/LiveChat/!svn/ver/14/Source/Server/DataServer/src/database.cpp
+END
+config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/LiveChat/!svn/ver/8/Source/Server/DataServer/src/config.cpp
+END
+shared.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/LiveChat/!svn/ver/8/Source/Server/DataServer/src/shared.cpp
+END
+protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/LiveChat/!svn/ver/14/Source/Server/DataServer/src/protocol.h
+END
+object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/LiveChat/!svn/ver/14/Source/Server/DataServer/src/object.cpp
+END
+singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/LiveChat/!svn/ver/8/Source/Server/DataServer/src/singleton.h
+END
+database.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/LiveChat/!svn/ver/8/Source/Server/DataServer/src/database.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LiveChat/!svn/ver/8/Source/Server/DataServer/src/config.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/LiveChat/!svn/ver/14/Source/Server/DataServer/src/object.h
+END
+shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LiveChat/!svn/ver/8/Source/Server/DataServer/src/shared.h
+END
+libmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LiveChat/!svn/ver/8/Source/Server/DataServer/src/libmsg.h
+END
+network.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/LiveChat/!svn/ver/8/Source/Server/DataServer/src/network.cpp
+END

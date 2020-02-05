@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/LiveChat/!svn/ver/11/Source/Lib
+END
+libConn.exp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/LiveChat/!svn/ver/11/Source/Lib/libConn.exp
+END
+libmysql.lib
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/LiveChat/!svn/ver/11/Source/Lib/libmysql.lib
+END
+libMsg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/LiveChat/!svn/ver/11/Source/Lib/libMsg.lib
+END
+libMsg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/LiveChat/!svn/ver/11/Source/Lib/libMsg.exp
+END
+libConn.lib
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/LiveChat/!svn/ver/11/Source/Lib/libConn.lib
+END

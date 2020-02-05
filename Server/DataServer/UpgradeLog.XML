@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataServer">
+</Property><Property Name="Solution File" Value="D:\New_development\LiveChat\Server\DataServer\DataServer.sln">
+</Property><Property Name="User Options File" Value="D:\New_development\LiveChat\Server\DataServer\DataServer.suo">
+</Property><Property Name="Date" Value="יום רביעי 24 ספטמבר 2008">
+</Property><Property Name="Time" Value="15:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DataServer.sln" Description="File successfully backed up as D:\New_development\LiveChat\Server\DataServer\DataServer.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="DataServer.suo" Description="File successfully backed up as D:\New_development\LiveChat\Server\DataServer\DataServer.suo.old">
+</Event><Event ErrorLevel="0" Project="DataServer" Source="DataServer.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="DataServer" Source="DataServer.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DataServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DataServer.sln" Description="Converted">
+</Event></UpgradeLog>

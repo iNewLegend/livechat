@@ -1,0 +1,91 @@
+C:\Development\LiveChat\New\client\bin\Release\LiveChatClient.exe.manifest
+C:\Development\LiveChat\New\client\bin\Release\LiveChatClient.application
+C:\Development\LiveChat\New\client\bin\Release\LiveChatClient.exe
+C:\Development\LiveChat\New\client\bin\Release\LiveChatClient.pdb
+C:\Development\LiveChat\New\client\obj\Release\ResolveAssemblyReference.cache
+C:\Development\LiveChat\New\client\obj\Release\VistaButtonTest.VistaButton.resources
+C:\Development\LiveChat\New\client\obj\Release\LiveChatClient.Properties.Resources.resources
+C:\Development\LiveChat\New\client\obj\Release\LiveChatClient.FindUsersForm.resources
+C:\Development\LiveChat\New\client\obj\Release\LiveChatClient.ChangeAwayForm.resources
+C:\Development\LiveChat\New\client\obj\Release\LiveChatClient.ContactList.resources
+C:\Development\LiveChat\New\client\obj\Release\LiveChatClient.LoginForm.resources
+C:\Development\LiveChat\New\client\obj\Release\LiveChatClient.messages.resources
+C:\Development\LiveChat\New\client\obj\Release\LiveChatClient.csproj.GenerateResource.Cache
+C:\Development\LiveChat\New\client\obj\Release\LiveChatClient.exe.manifest
+C:\Development\LiveChat\New\client\obj\Release\LiveChatClient.application
+C:\Development\LiveChat\New\client\obj\Release\LiveChatClient.exe
+C:\Development\LiveChat\New\client\obj\Release\LiveChatClient.pdb
+D:\Development\Sources\Live Chat\client\bin\Release\LiveChatClient.exe.manifest
+D:\Development\Sources\Live Chat\client\bin\Release\LiveChatClient.application
+D:\Development\Sources\Live Chat\client\bin\Release\LiveChatClient.exe
+D:\Development\Sources\Live Chat\client\bin\Release\LiveChatClient.pdb
+D:\Development\Sources\Live Chat\client\obj\Release\ResolveAssemblyReference.cache
+D:\Development\Sources\Live Chat\client\obj\Release\VistaButtonTest.VistaButton.resources
+D:\Development\Sources\Live Chat\client\obj\Release\LiveChatClient.Properties.Resources.resources
+D:\Development\Sources\Live Chat\client\obj\Release\LiveChatClient.FindUsersForm.resources
+D:\Development\Sources\Live Chat\client\obj\Release\LiveChatClient.ChangeAwayForm.resources
+D:\Development\Sources\Live Chat\client\obj\Release\LiveChatClient.ContactList.resources
+D:\Development\Sources\Live Chat\client\obj\Release\LiveChatClient.LoginForm.resources
+D:\Development\Sources\Live Chat\client\obj\Release\LiveChatClient.messages.resources
+D:\Development\Sources\Live Chat\client\obj\Release\LiveChatClient.csproj.GenerateResource.Cache
+D:\Development\Sources\Live Chat\client\obj\Release\LiveChatClient.exe.manifest
+D:\Development\Sources\Live Chat\client\obj\Release\LiveChatClient.application
+D:\Development\Sources\Live Chat\client\obj\Release\LiveChatClient.exe
+D:\Development\Sources\Live Chat\client\obj\Release\LiveChatClient.pdb
+C:\Users\leo123\Documents\Downloads\Compressed\LiveChat\client\obj\Release\LiveChatClient.exe
+C:\Users\leo123\Documents\Downloads\Compressed\LiveChat\client\obj\Release\LiveChatClient.pdb
+D:\dev\LiveChat\client\obj\Release\LiveChatClient.exe
+D:\dev\LiveChat\client\obj\Release\LiveChatClient.pdb
+D:\dev\LiveChat\client\bin\Release\LiveChatClient.exe.manifest
+D:\dev\LiveChat\client\bin\Release\LiveChatClient.application
+D:\dev\LiveChat\client\bin\Release\LiveChatClient.exe
+D:\dev\LiveChat\client\bin\Release\LiveChatClient.pdb
+D:\dev\LiveChat\client\bin\Release\TextIni.dll
+D:\dev\LiveChat\client\bin\Release\TextIni.pdb
+D:\dev\LiveChat\client\obj\Release\ResolveAssemblyReference.cache
+D:\dev\LiveChat\client\obj\Release\VistaButtonTest.VistaButton.resources
+D:\dev\LiveChat\client\obj\Release\LiveChatClient.Properties.Resources.resources
+D:\dev\LiveChat\client\obj\Release\LiveChatClient.FindUsersForm.resources
+D:\dev\LiveChat\client\obj\Release\LiveChatClient.ChangeAwayForm.resources
+D:\dev\LiveChat\client\obj\Release\LiveChatClient.ContactList.resources
+D:\dev\LiveChat\client\obj\Release\LiveChatClient.LoginForm.resources
+D:\dev\LiveChat\client\obj\Release\LiveChatClient.messages.resources
+D:\dev\LiveChat\client\obj\Release\LiveChatClient.csproj.GenerateResource.Cache
+D:\dev\LiveChat\client\obj\Release\LiveChatClient.exe.manifest
+D:\dev\LiveChat\client\obj\Release\LiveChatClient.application
+D:\Temp\client\obj\Release\LiveChatClient.exe
+D:\Temp\client\obj\Release\LiveChatClient.pdb
+D:\Temp\client\bin\Release\LiveChatClient.exe.manifest
+D:\Temp\client\bin\Release\LiveChatClient.application
+D:\Temp\client\bin\Release\LiveChatClient.exe
+D:\Temp\client\bin\Release\LiveChatClient.pdb
+D:\Temp\client\bin\Release\TextIni.dll
+D:\Temp\client\bin\Release\TextIni.pdb
+D:\Temp\client\obj\Release\ResolveAssemblyReference.cache
+D:\Temp\client\obj\Release\VistaButtonTest.VistaButton.resources
+D:\Temp\client\obj\Release\LiveChatClient.Properties.Resources.resources
+D:\Temp\client\obj\Release\LiveChatClient.FindUsersForm.resources
+D:\Temp\client\obj\Release\LiveChatClient.ChangeAwayForm.resources
+D:\Temp\client\obj\Release\LiveChatClient.ContactList.resources
+D:\Temp\client\obj\Release\LiveChatClient.LoginForm.resources
+D:\Temp\client\obj\Release\LiveChatClient.messages.resources
+D:\Temp\client\obj\Release\LiveChatClient.csproj.GenerateResource.Cache
+D:\Temp\client\obj\Release\LiveChatClient.exe.manifest
+D:\Temp\client\obj\Release\LiveChatClient.application
+D:\dev\LiveChat\Source\Client\obj\Release\LiveChatClient.exe
+D:\dev\LiveChat\Source\Client\obj\Release\LiveChatClient.pdb
+D:\dev\LiveChat\Source\Client\obj\Release\ResolveAssemblyReference.cache
+D:\dev\LiveChat\Source\Client\obj\Release\VistaButtonTest.VistaButton.resources
+D:\dev\LiveChat\Source\Client\obj\Release\LiveChatClient.Properties.Resources.resources
+D:\dev\LiveChat\Source\Client\obj\Release\LiveChatClient.FindUsersForm.resources
+D:\dev\LiveChat\Source\Client\obj\Release\LiveChatClient.ChangeAwayForm.resources
+D:\dev\LiveChat\Source\Client\obj\Release\LiveChatClient.ContactList.resources
+D:\dev\LiveChat\Source\Client\obj\Release\LiveChatClient.LoginForm.resources
+D:\dev\LiveChat\Source\Client\obj\Release\LiveChatClient.messages.resources
+D:\dev\LiveChat\Source\Client\obj\Release\LiveChatClient.csproj.GenerateResource.Cache
+D:\dev\LiveChat\Source\Client\bin\Release\LiveChatClient.exe.manifest
+D:\dev\LiveChat\Source\Client\bin\Release\LiveChatClient.application
+D:\dev\LiveChat\Source\Client\bin\Release\LiveChatClient.exe
+D:\dev\LiveChat\Source\Client\bin\Release\LiveChatClient.pdb
+D:\dev\LiveChat\Source\Client\obj\Release\LiveChatClient.exe.manifest
+D:\dev\LiveChat\Source\Client\obj\Release\LiveChatClient.application

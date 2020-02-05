@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/LiveChat/!svn/ver/8/Source/Server/libConn/src
+END
+libconn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LiveChat/!svn/ver/8/Source/Server/libConn/src/libconn.cpp
+END
+libconn.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/LiveChat/!svn/ver/8/Source/Server/libConn/src/libconn.h
+END
