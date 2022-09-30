@@ -1,4 +1,4 @@
-Project from Oct 9, 2008
+Sketch Project from Oct 9, 2008
 
 Click on the image to see the preview:
 
